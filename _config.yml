@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mu Zhou"
 title_separator          : "-"
-name                     : &name "Mu Zhou / (周牧)"
+name                     : &name "Mu Zhou"
 description              : &description "personal description"
 url                      : "https://zhoumu53.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mu Zhou"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Mu Zhou / (周牧)"
+  avatar           : "profile.jpg"
+  bio              : "M.S. Degree in Computer Science"
   location         : "Geneva, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
