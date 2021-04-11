@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mu Zhou（周牧）"
+title                    : "Mu Zhou"
 title_separator          : "-"
 name                     : &name "Mu Zhou"
 description              : &description "personal description"
