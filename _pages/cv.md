@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to view my Curriculum Vitae [PDF]](https://zhoumu53.github.io/files/cv_muzhou.pdf)
+[Click to view my Curriculum Vitae [PDF]](https://zhoumu53.github.io/files/CV_MuZhou.pdf)
